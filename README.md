@@ -7,11 +7,20 @@
   <img src="https://komarev.com/ghpvc/?username=Songshilongi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h2 align="center">🧰 技术栈</h2>
+<h2 align="center">🧰 技术栈 & 📊 GitHub 使用语言统计</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,mysql,redis,docker,git,vscode,idea" alt="skills" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <strong>技术栈</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,mysql,redis,docker,git,mongodb,vscode,idea,postman,maven&perline=5" alt="skills" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <strong>GitHub 使用语言统计</strong><br /><br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songshilongi&layout=compact&langs_count=8" alt="GitHub Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ## 工作经历
 
