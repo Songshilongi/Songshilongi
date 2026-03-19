@@ -1,6 +1,17 @@
-<h1>Hi there, I'm Songshilong 👋</h1>
+<div align="center">
+  <h1>Hi there, I'm Songshilong 👋</h1>
 
-<h2>🧰 技术栈 & 📊 GitHub 使用语言统计</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Role-Back--end%20Developer-2ea44f?style=for-the-badge" alt="Role Badge" />
+    <img src="https://img.shields.io/badge/Focus-AI%20Agent%20%26%20Backend-0969da?style=for-the-badge" alt="Focus Badge" />
+    <img src="https://img.shields.io/badge/Location-Shanghai-8250df?style=for-the-badge" alt="Location Badge" />
+  </p>
+</div>
+
+> [!NOTE]
+> 欢迎来到我的主页，以下内容为我的技术栈、工作经历与项目经历。
+
+## 🧰 技术栈 & 📊 GitHub 使用语言统计
 
 <table>
   <tr>
@@ -107,7 +118,7 @@ GLO CIM 全球负责人做过技术路线与业务价值汇报。
 
 ### 基于多智能体协作的多模态化学信息抽取（硕士课题）
 
-> **单位**：华东理工大学（硕士研究生）
+> **单位**：华东理工大学（硕士研究生）  
 > **时间**：2024.03 - 至今
 
 **项目简介**
